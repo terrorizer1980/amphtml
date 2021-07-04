@@ -14,7 +14,14 @@
   dependencies:
     "@polymer/polymer" "^1.2.5-npm-test.2"
 
-"@polymer/iron-a11y-keys-behavior@0.0.3", "@polymer/iron-a11y-keys-behavior@^0.0.3":
+"@polymer/iron-a11y-keys-behavior@0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@polymer/iron-a11y-keys-behavior/-/iron-a11y-keys-behavior-0.0.4.tgz#0e2d4341db37c68344900cf1647eda145dee904a"
+  integrity sha1-Di1DQds3xoNEkAzxZH7aFF3ukEo=
+  dependencies:
+    "@polymer/polymer" gloo
+
+"@polymer/iron-a11y-keys-behavior@^0.0.3":
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/@polymer/iron-a11y-keys-behavior/-/iron-a11y-keys-behavior-0.0.3.tgz#82a9c535d01ae94cb33d9c071a9a543ebc2044c0"
   integrity sha1-gqnFNdAa6UyzPZwHGppUPrwgRMA=
@@ -312,6 +319,13 @@
   version "1.2.5-npm-test.2"
   resolved "https://registry.yarnpkg.com/@polymer/polymer/-/polymer-1.2.5-npm-test.2.tgz#7930f5663c2f686915451d211e663aa9997d7336"
   integrity sha1-eTD1ZjwvaGkVRR0hHmY6qZl9czY=
+  dependencies:
+    webcomponents.js "^0.7.20"
+
+"@polymer/polymer@gloo":
+  version "1.7.1-npm-test.4"
+  resolved "https://registry.yarnpkg.com/@polymer/polymer/-/polymer-1.7.1-npm-test.4.tgz#ef0f09795d39fd03a81e1b9ca89f8855307d9fea"
+  integrity sha1-7w8JeV05/QOoHhucqJ+IVTB9n+o=
   dependencies:
     webcomponents.js "^0.7.20"
 
