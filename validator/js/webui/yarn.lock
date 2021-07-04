@@ -1034,10 +1034,10 @@ web-animations-js@2.1.3:
   resolved "https://registry.yarnpkg.com/web-animations-js/-/web-animations-js-2.1.3.tgz#fb3fc56a40a2fb804866386fcf1a414265c48b49"
   integrity sha1-+z/FakCi+4BIZjhvzxpBQmXEi0k=
 
-web-animations-js@2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/web-animations-js/-/web-animations-js-2.2.2.tgz#7c3aa5382c5eade70cd206880d56a37869630638"
-  integrity sha1-fDqlOCxerecM0gaIDVajeGljBjg=
+web-animations-js@2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/web-animations-js/-/web-animations-js-2.3.2.tgz#a51963a359c543f97b47c7d4bc2d811f9fc9e153"
+  integrity sha512-TOMFWtQdxzjWp8qx4DAraTWTsdhxVSiWa6NkPFSaPtZ1diKUxTn4yTix73A1euG1WbSOMMPcY51cnjTIHrGtDA==
 
 webcomponents.js@^0.7.20, webcomponents.js@^0.7.22:
   version "0.7.24"
